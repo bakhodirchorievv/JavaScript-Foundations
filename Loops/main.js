@@ -74,15 +74,20 @@
 
 
 //NAME CHECKING
-let firstname;
+// let firstname;
 
-do {
-    firstname = prompt("Ism kiriting!")
-} while ("Bahodir" != firstname)
-
-
+// do {
+//     firstname = prompt("Ism kiriting!")
+// } while ("Bahodir" != firstname)
 
 
+
+// LOOPS HOMEWORK
+let a = "#"
+while (a <= "##########") {
+    console.log(a)
+    a = a + "#"
+}
 
 
 
